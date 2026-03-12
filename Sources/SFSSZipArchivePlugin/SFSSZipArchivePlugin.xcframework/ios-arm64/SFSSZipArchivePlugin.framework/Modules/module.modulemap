@@ -1,0 +1,6 @@
+framework module SFSSZipArchivePlugin {
+  umbrella header "SFSSZipArchivePlugin.h"
+  export *
+
+  module * { export * }
+}

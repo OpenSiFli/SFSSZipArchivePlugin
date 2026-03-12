@@ -1,2 +1,4 @@
 # SFSSZipArchivePlugin
 SFSSZipArchivePlugin
+这是一个可选组件，思澈其他的SDK需要用到zip,unzip功能时可以引用SFSSZipArchivePlugin
+如果希望使用自己项目中的zip库，可自行实现SifliOCore中的SFZipHelperDelegate协议。
